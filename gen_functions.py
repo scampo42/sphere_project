@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import random
 from my_functions import *
 
-n = 282
+n = 100
 
 ### UPDATING THE POPULATION WITH CHILD
 
@@ -120,8 +120,8 @@ def relax_arrangement(arrangement, loops):
             print("Energy:",energy)
             print("")
 
-    #IMPLEMENTED TO TEMP STOP ERROR FOR n = 282
-    if energy <37147:
+    #IMPLEMENTED TO TEMP STOP ERROR FOR n = 100
+    if energy <4448:
         print("Error in Energy Calc:",energy,"Actual Energy:",energy_arrangement(x))
         np.savetxt('/Users/samcampion/Documents/University/Uni Y3/Project/Python Stuff/error_arrangement.txt',new_pop_arrangement[pop_energy.index(min(pop_energy))])
         energy = 9999999
