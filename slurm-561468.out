@@ -1,0 +1,106 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(gen_v_pop_comp2.py:3240345): Gdk-CRITICAL **: 16:44:25.679: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Final gamma: 0.12551755658276406 Total loops: 2000 Energy: 4448.5210578789765
+Final gamma: 0.12551755658276378 Total loops: 2000 Energy: 4448.410424053355
+Final gamma: 1.7717827819690788e-06 Total loops: 2000 Energy: 4448.46648309438
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.351787885516
+Final gamma: 0.12551755658276403 Total loops: 2000 Energy: 4448.447258316005
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.410420651962
+Final gamma: 0.1255175565827641 Total loops: 2000 Energy: 4448.352403088731
+Final gamma: 0.12551755658276412 Total loops: 2000 Energy: 4448.519452428717
+Final gamma: 0.12551755658276403 Total loops: 2000 Energy: 4448.410420656991
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.350758763681
+Final gamma: 0.1255175565827641 Total loops: 2000 Energy: 4448.41042064899
+Final gamma: 0.000343783481175613 Total loops: 2000 Energy: 4448.4664830949405
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.352113541172
+Final gamma: 0.12551755658276437 Total loops: 2000 Energy: 4448.447275494537
+Final gamma: 0.12551755658276417 Total loops: 2000 Energy: 4448.473705913932
+Final gamma: 0.12551755658276378 Total loops: 2000 Energy: 4448.410420809774
+Final gamma: 0.12551755658276412 Total loops: 2000 Energy: 4448.410458534388
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.350743891473
+Final gamma: 0.12551755658276442 Total loops: 2000 Energy: 4448.51680994505
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.47370555456
+Final gamma: 0.1255175565827641 Total loops: 2000 Energy: 4448.351251470541
+Final gamma: 0.12551755658276406 Total loops: 2000 Energy: 4448.448206037531
+Final gamma: 0.12551755658276403 Total loops: 2000 Energy: 4448.351127238257
+Final gamma: 0.12551755658276414 Total loops: 2000 Energy: 4448.562308753972
+Final gamma: 0.1255175565827641 Total loops: 2000 Energy: 4448.351708180338
+Starting Pop Energy [4448.5210578789765, 4448.410424053355, 4448.46648309438, 4448.351787885516, 4448.447258316005, 4448.410420651962, 4448.352403088731, 4448.519452428717, 4448.410420656991, 4448.350758763681, 4448.41042064899, 4448.4664830949405, 4448.352113541172, 4448.447275494537, 4448.473705913932, 4448.410420809774, 4448.410458534388, 4448.350743891473, 4448.51680994505, 4448.47370555456, 4448.351251470541, 4448.448206037531, 4448.351127238257, 4448.562308753972, 4448.351708180338]
+Generation: 0 Energy Average: 4448.424688237111 Energy Min: 4448.350743891473
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.351588830051
+Generation: 1 Energy Average: 4448.416259440153 Energy Min: 4448.350743891473
+Final gamma: 0.1255175565827641 Total loops: 2000 Energy: 4448.410420652575
+Generation: 2 Energy Average: 4448.411833951097 Energy Min: 4448.350743891473
+Final gamma: 0.12551755658276403 Total loops: 2000 Energy: 4448.350635509612
+Generation: 3 Energy Average: 4448.4050812743335 Energy Min: 4448.350635509612
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.350696037686
+Generation: 4 Energy Average: 4448.398436718038 Energy Min: 4448.350635509612
+Distance: 0.9605332395353459
+Mutation Occured
+Energy Post Mutation: 4469.885730245768 n Post Mutation: 100
+Final gamma: 0.12551755658276378 Total loops: 2000 Energy: 4448.350886640085
+Generation: 5 Energy Average: 4448.393523947085 Energy Min: 4448.350635509612
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.350634875122
+Generation: 6 Energy Average: 4448.388601119907 Energy Min: 4448.350634875122
+Distance: 1.3628222452566752
+Mutation Occured
+Energy Post Mutation: 4465.449981685209 n Post Mutation: 100
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.410420649365
+Generation: 7 Energy Average: 4448.386358622084 Energy Min: 4448.350634875122
+Distance: 0.995028384572019
+Mutation Occured
+Energy Post Mutation: 4465.066508972501 n Post Mutation: 100
+Final gamma: 0.12551755658276423 Total loops: 2000 Energy: 4448.350884169511
+Generation: 8 Energy Average: 4448.381734665089 Energy Min: 4448.350634875122
+Final gamma: 0.125517556582764 Total loops: 2000 Energy: 4448.351857482833
+Generation: 9 Energy Average: 4448.377880722902 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827638 Total loops: 2000 Energy: 4448.350921632477
+Generation: 10 Energy Average: 4448.374026568419 Energy Min: 4448.350634875122
+Final gamma: 0.12551755658276403 Total loops: 2000 Energy: 4448.350667758007
+Generation: 11 Energy Average: 4448.370162946099 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.350650489496
+Generation: 12 Energy Average: 4448.367770624303 Energy Min: 4448.350634875122
+Final gamma: 0.12551755658276417 Total loops: 2000 Energy: 4448.352311760323
+Generation: 13 Energy Average: 4448.365446132582 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.350998923167
+Generation: 14 Energy Average: 4448.363069257118 Energy Min: 4448.350634875122
+Distance: 0.7682881015702788
+Mutation Occured
+Energy Post Mutation: 4475.5950496415635 n Post Mutation: 100
+Final gamma: 0.12551755658276417 Total loops: 2000 Energy: 4448.351191115313
+Generation: 15 Energy Average: 4448.360700075451 Energy Min: 4448.350634875122
+Final gamma: 0.12551755658276437 Total loops: 2000 Energy: 4448.352772791001
+Generation: 16 Energy Average: 4448.358394160988 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.35088350372
+Generation: 17 Energy Average: 4448.356012675058 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827638 Total loops: 2000 Energy: 4448.3525381444415
+Generation: 18 Energy Average: 4448.353697374861 Energy Min: 4448.350634875122
+Final gamma: 0.12551755658276403 Total loops: 2000 Energy: 4448.473705413941
+Child Energy Too High
+Generation: 19 Energy Average: 4448.353697374861 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827641 Total loops: 2000 Energy: 4448.350870109909
+Generation: 20 Energy Average: 4448.351315353298 Energy Min: 4448.350634875122
+Final gamma: 0.12551755658276378 Total loops: 2000 Energy: 4448.350641479648
+Generation: 21 Energy Average: 4448.351230100844 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827639 Total loops: 2000 Energy: 4448.410420659491
+Child Energy Too High
+Generation: 22 Energy Average: 4448.351230100844 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827638 Total loops: 2000 Energy: 4448.4753860104165
+Child Energy Too High
+Generation: 23 Energy Average: 4448.351230100844 Energy Min: 4448.350634875122
+Final gamma: 0.1255175565827638 Total loops: 2000 Energy: 4448.350877399459
+Generation: 24 Energy Average: 4448.351163671045 Energy Min: 4448.350634875122
+Final gamma: 0.12551755658276378 Total loops: 2000 Energy: 4448.350634439952
+Generation: 25 Energy Average: 4448.351092925094 Energy Min: 4448.350634439952
+Final Population Energy: [4448.350641479648, 4448.352311760323, 4448.350884169511, 4448.351787885516, 4448.350667758007, 4448.35088350372, 4448.350634439952, 4448.350635509612, 4448.351191115313, 4448.350758763681, 4448.350870109909, 4448.350877399459, 4448.352113541172, 4448.350921632477, 4448.350886640085, 4448.350998923167, 4448.350650489496, 4448.350743891473, 4448.350696037686, 4448.350634875122, 4448.351251470541, 4448.351857482833, 4448.351127238257, 4448.351588830051, 4448.351708180338]
+Generation List: [21, 13, 8, 'p', 11, 17, 25, 3, 15, 'p', 20, 24, 'p', 10, 5, 14, 12, 'p', 4, 6, 'p', 9, 'p', 1, 'p']
+Traceback (most recent call last):
+  File "gen_v_pop_comp2.py", line 95, in <module>
+    np.savetxt('/Users/samcampion/Documents/University/Uni Y3/Project/Python Stuff/gen_energy_min_2.txt',energy_min_list,fmt='%s')
+  File "<__array_function__ internals>", line 200, in savetxt
+  File "/home2/fsgf66/.local/lib/python3.8/site-packages/numpy/lib/npyio.py", line 1541, in savetxt
+    open(fname, 'wt').close()
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/samcampion/Documents/University/Uni Y3/Project/Python Stuff/gen_energy_min_2.txt'
+srun: error: cpu5: task 0: Exited with exit code 1
