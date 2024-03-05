@@ -10,8 +10,8 @@ import random
 from my_functions import *
 from gen_functions import *
 
-generations = 100
-starting_n = 20
+generations = 40
+starting_n = 10
 
 #A mutation that selects a point at random and moves it to a random position
 def mutate(arrangement):
