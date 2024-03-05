@@ -116,7 +116,7 @@ def relax_arrangement(arrangement, loops):
         amplitude = amplitude * 1.01 #TEST
         loop += 1
 
-        if loop % 1000 == 0:
+        if loop % 6001 == 0:
             print("Gamma:",amplitude)
             print("Energy:",energy)
             print("")
