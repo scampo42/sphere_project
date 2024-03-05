@@ -10,14 +10,14 @@ import random
 from my_functions import *
 from gen_functions import *
 
-generations = 80
+generations = 100
 starting_n = 20
 
 #A mutation that selects a point at random and moves it to a random position
 def mutate(arrangement):
     i = random.randint(0,len(arrangement)-1)
     mutated_arrangement = copy.deepcopy(arrangement)
-    mutated_arrangement[i] = normalise(2.0*np.random.random(3)-1.0) #Added normalise
+    mutated_arrangement[i] = normalise_point(2.0*np.random.random(3)-1.0) #Added normalise
     return(mutated_arrangement)
 
 #Breed function now rotates each parent by a random amount
@@ -71,7 +71,7 @@ def next_generation(current_pop_arrangement, current_pop_energy,loops):
     else:
         new_pop_arrangement, new_pop_energy = copy.deepcopy(current_pop_arrangement), copy.deepcopy(current_pop_energy)
         new_pop_arrangement[population_removal], new_pop_energy[population_removal] = child_arrangement, child_energy  # Updates the new population with child
-        np.savetxt('/Users/samcampion/Documents/University/Uni Y3/Project/Python Stuff/gensphere2.txt', new_pop_arrangement[pop_energy.index(min(pop_energy))])
+        np.savetxt('gen306.txt', new_pop_arrangement[pop_energy.index(min(pop_energy))])
         return (new_pop_arrangement, new_pop_energy, population_removal)
 
 
@@ -81,7 +81,7 @@ print("Starting Pop Energy",pop_energy)
 print("Generation:",0,"Energy Average:",sum(pop_energy)/len(pop_energy),"Energy Min:",min(pop_energy))
 
 for i in range(0,generations):
-    pop_arrange, pop_energy, member_removed = next_generation(pop_arrange,pop_energy,2000)
+    pop_arrange, pop_energy, member_removed = next_generation(pop_arrange,pop_energy,6000)
     print("Generation:",i+1,"Energy Average:",sum(pop_energy)/len(pop_energy),"Energy Min:",min(pop_energy))
     if member_removed != 999:
         gen_list[member_removed] = i+1 #Adds index of generation if added to our population
@@ -89,8 +89,6 @@ for i in range(0,generations):
 print("Final Population Energy:",pop_energy)
 print("Generation List:",gen_list)
 
-np.savetxt('/Users/samcampion/Documents/University/Uni Y3/Project/Python Stuff/gensphere2.txt', pop_arrange[pop_energy.index(min(pop_energy))])
-#Was saved to the 100gensphere2 (E should be 10236.1964367)
-#                                            10236.196436711782
+np.savetxt('gen306.txt', pop_arrange[pop_energy.index(min(pop_energy))])
 
 draw(pop_arrange[pop_energy.index(min(pop_energy))])

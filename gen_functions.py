@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import random
 from my_functions import *
 
-n = 100
+n = 306
 
 ### UPDATING THE POPULATION WITH CHILD
 
@@ -73,7 +73,7 @@ def starting_population(starting_n,loops):
 def energy_arrangement(arrangement):
     energy = 0.0
     for i in range(0, len(arrangement)):
-        for j in range(i + 1, n):
+        for j in range(i + 1, len(arrangement)):
             distance = np.sqrt(sum((arrangement[i] - arrangement[j]) ** 2))
             energy = energy + 1.0 / distance
     return(energy)
@@ -97,12 +97,13 @@ def relax_arrangement(arrangement, loops):
         x_old = copy.deepcopy(x)
         x = copy.deepcopy(x_new(x, amplitude))
         # project all new points onto a unit sphere
-        x = proj(x, n)
+        x = proj(x, len(x))
 
         # calculate new energy
         energy = 0.0
-        for i in range(0, n):
-            for j in range(i + 1, n):
+        for i in range(0, len(x)):
+            for j in range(i + 1, len(x)):
+
                 distance = np.sqrt(sum((x[i] - x[j]) ** 2))
                 energy = energy + 1.0 / distance
 
@@ -115,13 +116,17 @@ def relax_arrangement(arrangement, loops):
         amplitude = amplitude * 1.01 #TEST
         loop += 1
 
-        if loop % 4001 == 0:
+        if loop % 1000 == 0:
             print("Gamma:",amplitude)
             print("Energy:",energy)
             print("")
 
-    #IMPLEMENTED TO TEMP STOP ERROR FOR n = 100
-    if energy <4448:
+    #IMPLEMENTED TO TEMP STOP ERROR FOR n = 184 15550
+    #IMPLEMENTED FOR n = 132: 7875
+    #IMPLEMENTED FOR n = 192: 16963
+    # IMPLEMENTED FOR n = 256: 30506
+    #IMPLEMENTED FOR n = 306: 43862
+    if energy <	43862:
         print("Error in Energy Calc:",energy,"Actual Energy:",energy_arrangement(x))
         np.savetxt('/Users/samcampion/Documents/University/Uni Y3/Project/Python Stuff/error_arrangement.txt',new_pop_arrangement[pop_energy.index(min(pop_energy))])
         energy = 9999999
