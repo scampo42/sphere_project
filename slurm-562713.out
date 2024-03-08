@@ -1,0 +1,163 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(gen_v2.py:1730090): Gdk-CRITICAL **: 21:54:51.697: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Final gamma: 0.048628073149379725 Total loops: 2000 Energy: 43863.56591527473
+Final gamma: 0.048628073149379634 Total loops: 2000 Energy: 43863.26159116657
+Final gamma: 0.04862807314937977 Total loops: 2000 Energy: 43863.68922122776
+Final gamma: 0.04862807314937978 Total loops: 2000 Energy: 43863.07505348318
+Final gamma: 0.04862807314937976 Total loops: 2000 Energy: 43863.41131253884
+Final gamma: 0.04862807314937967 Total loops: 2000 Energy: 43863.28944786177
+Final gamma: 0.04862807314937977 Total loops: 2000 Energy: 43863.018165591915
+Final gamma: 0.04862807314937975 Total loops: 2000 Energy: 43863.52182655649
+Final gamma: 0.04862807314937977 Total loops: 2000 Energy: 43863.20672618513
+Final gamma: 0.04862807314937977 Total loops: 2000 Energy: 43863.52679620911
+Starting Pop Energy [43863.56591527473, 43863.26159116657, 43863.68922122776, 43863.07505348318, 43863.41131253884, 43863.28944786177, 43863.018165591915, 43863.52182655649, 43863.20672618513, 43863.52679620911]
+Generation: 0 Energy Average: 43863.356605609544 Energy Min: 43863.018165591915
+Final gamma: 9.613438710860283e-07 Total loops: 2828 Energy: 43863.14727032499
+Generation: 1 Energy Average: 43863.30241051927 Energy Min: 43863.018165591915
+Final gamma: 0.04742974174822213 Total loops: 6000 Energy: 43863.23678351726
+Generation: 2 Energy Average: 43863.26949734353 Energy Min: 43863.018165591915
+Distance: 1.3420025482499378
+Mutation Occured
+Energy Post Mutation: 43924.41688077357 n Post Mutation: 306
+Final gamma: 9.213645193857724e-07 Total loops: 3692 Energy: 43863.1161088623
+Generation: 3 Energy Average: 43863.22842860885 Energy Min: 43863.018165591915
+Distance: 1.428229875953564
+Mutation Occured
+Energy Post Mutation: 43963.65684612293 n Post Mutation: 306
+Final gamma: 0.04742974174822209 Total loops: 6000 Energy: 43863.03363503098
+Generation: 4 Energy Average: 43863.17960945629 Energy Min: 43863.018165591915
+Final gamma: 9.687094462246368e-07 Total loops: 4290 Energy: 43863.69116048536
+Child Energy Too High
+Generation: 5 Energy Average: 43863.17960945629 Energy Min: 43863.018165591915
+Distance: 1.169759939857229
+Mutation Occured
+Energy Post Mutation: 43922.760241530064 n Post Mutation: 306
+Final gamma: 0.0474297417482222 Total loops: 6000 Energy: 43863.02527146195
+Generation: 6 Energy Average: 43863.1410053486 Energy Min: 43863.018165591915
+Final gamma: 9.380431414528778e-07 Total loops: 5748 Energy: 43863.06187876194
+Generation: 7 Energy Average: 43863.11824843862 Energy Min: 43863.018165591915
+Final gamma: 9.109068964267074e-07 Total loops: 5978 Energy: 43863.157337579236
+Generation: 8 Energy Average: 43863.10782307989 Energy Min: 43863.018165591915
+Final gamma: 0.047429741748222155 Total loops: 6000 Energy: 43863.5313273931
+Child Energy Too High
+Generation: 9 Energy Average: 43863.10782307989 Energy Min: 43863.018165591915
+Final gamma: 0.04742974174822209 Total loops: 6000 Energy: 43863.304197131416
+Child Energy Too High
+Generation: 10 Energy Average: 43863.10782307989 Energy Min: 43863.018165591915
+Final gamma: 9.402955059657092e-07 Total loops: 5600 Energy: 43863.157872055126
+Generation: 11 Energy Average: 43863.09993193368 Energy Min: 43863.018165591915
+Final gamma: 0.04742974174822213 Total loops: 6000 Energy: 43863.051798605855
+Generation: 12 Energy Average: 43863.08443917574 Energy Min: 43863.018165591915
+Final gamma: 9.72480674891509e-07 Total loops: 4841 Energy: 43863.6461149719
+Child Energy Too High
+Generation: 13 Energy Average: 43863.08443917574 Energy Min: 43863.018165591915
+Final gamma: 9.635296446195844e-07 Total loops: 4533 Energy: 43862.87079184303
+Generation: 14 Energy Average: 43863.05573115454 Energy Min: 43862.87079184303
+Final gamma: 9.388875386925057e-07 Total loops: 3408 Energy: 43863.00643473775
+Generation: 15 Energy Average: 43863.040640870386 Energy Min: 43862.87079184303
+Final gamma: 9.50092929597402e-07 Total loops: 4521 Energy: 43862.98074069342
+Generation: 16 Energy Average: 43863.02398790723 Energy Min: 43862.87079184303
+Distance: 0.9677936884328466
+Mutation Occured
+Energy Post Mutation: 43964.62789644499 n Post Mutation: 306
+Final gamma: 9.685083263699815e-07 Total loops: 4830 Energy: 43862.949591360666
+Generation: 17 Energy Average: 43863.00733615707 Energy Min: 43862.87079184303
+Final gamma: 9.494906006093295e-07 Total loops: 4648 Energy: 43863.314815819635
+Child Energy Too High
+Generation: 18 Energy Average: 43863.00733615707 Energy Min: 43862.87079184303
+Final gamma: 9.426837608819356e-07 Total loops: 5092 Energy: 43862.90376423976
+Generation: 19 Energy Average: 43862.990207232724 Energy Min: 43862.87079184303
+Final gamma: 0.047429741748222135 Total loops: 6000 Energy: 43862.862259795475
+Generation: 20 Energy Average: 43862.97024533608 Energy Min: 43862.862259795475
+Final gamma: 9.229170488538716e-07 Total loops: 2358 Energy: 43863.443727685204
+Child Energy Too High
+Generation: 21 Energy Average: 43862.97024533608 Energy Min: 43862.862259795475
+Final gamma: 9.599924376368247e-07 Total loops: 3442 Energy: 43863.04120744682
+Generation: 22 Energy Average: 43862.96918622018 Energy Min: 43862.862259795475
+Final gamma: 9.555972511962341e-07 Total loops: 3198 Energy: 43863.0411092157
+Generation: 23 Energy Average: 43862.96917639706 Energy Min: 43862.862259795475
+Final gamma: 9.156033635471104e-07 Total loops: 4782 Energy: 43863.5225239257
+Child Energy Too High
+Generation: 24 Energy Average: 43862.96917639706 Energy Min: 43862.862259795475
+Final gamma: 0.047429741748222204 Total loops: 6000 Energy: 43863.27991944786
+Child Energy Too High
+Generation: 25 Energy Average: 43862.96917639706 Energy Min: 43862.862259795475
+Final gamma: 9.09731809818737e-07 Total loops: 3246 Energy: 43863.15084452411
+Child Energy Too High
+Generation: 26 Energy Average: 43862.96917639706 Energy Min: 43862.862259795475
+Final gamma: 0.04742974174822211 Total loops: 6000 Energy: 43863.07822664556
+Child Energy Too High
+Generation: 27 Energy Average: 43862.96917639706 Energy Min: 43862.862259795475
+Final gamma: 0.052699713053580254 Total loops: 6000 Energy: 43863.14418404981
+Child Energy Too High
+Generation: 28 Energy Average: 43862.96917639706 Energy Min: 43862.862259795475
+Distance: 1.0923494244747691
+Mutation Occured
+Energy Post Mutation: 43974.62687020372 n Post Mutation: 306
+Final gamma: 9.294090855047194e-07 Total loops: 5440 Energy: 43863.11847737428
+Child Energy Too High
+Generation: 29 Energy Average: 43862.96917639706 Energy Min: 43862.862259795475
+Distance: 0.9158766208090178
+Mutation Occured
+Energy Post Mutation: 43917.61478282548 n Post Mutation: 306
+Final gamma: 0.04742974174822222 Total loops: 6000 Energy: 43863.20338702707
+Child Energy Too High
+Generation: 30 Energy Average: 43862.96917639706 Energy Min: 43862.862259795475
+Final gamma: 0.047429741748222204 Total loops: 6000 Energy: 43862.80092874476
+Generation: 31 Energy Average: 43862.94515834997 Energy Min: 43862.80092874476
+Final gamma: 9.49096382117939e-07 Total loops: 5728 Energy: 43863.4399616238
+Child Energy Too High
+Generation: 32 Energy Average: 43862.94515834997 Energy Min: 43862.80092874476
+Distance: 0.8369967732698658
+Mutation Occured
+Energy Post Mutation: 43923.03306802081 n Post Mutation: 306
+Final gamma: 0.04742974174822211 Total loops: 6000 Energy: 43862.968458621675
+Generation: 33 Energy Average: 43862.93864070905 Energy Min: 43862.80092874476
+Final gamma: 9.398733669264028e-07 Total loops: 2201 Energy: 43862.8252225371
+Generation: 34 Energy Average: 43862.91863581656 Energy Min: 43862.80092874476
+Distance: 1.227742456025922
+Mutation Occured
+Energy Post Mutation: 43900.97109238191 n Post Mutation: 306
+Final gamma: 0.047429741748222135 Total loops: 6000 Energy: 43863.34429090672
+Child Energy Too High
+Generation: 35 Energy Average: 43862.91863581656 Energy Min: 43862.80092874476
+Final gamma: 9.14642991992179e-07 Total loops: 5989 Energy: 43863.24150419858
+Child Energy Too High
+Generation: 36 Energy Average: 43862.91863581656 Energy Min: 43862.80092874476
+Final gamma: 9.626305785382027e-07 Total loops: 2394 Energy: 43863.32306725771
+Child Energy Too High
+Generation: 37 Energy Average: 43862.91863581656 Energy Min: 43862.80092874476
+Final gamma: 0.047429741748222135 Total loops: 6000 Energy: 43863.21138345387
+Child Energy Too High
+Generation: 38 Energy Average: 43862.91863581656 Energy Min: 43862.80092874476
+Final gamma: 0.04742974174822209 Total loops: 6000 Energy: 43862.96474685238
+Generation: 39 Energy Average: 43862.91329394261 Energy Min: 43862.80092874476
+Final gamma: 9.16501307843023e-07 Total loops: 3755 Energy: 43863.05113555215
+Child Energy Too High
+Generation: 40 Energy Average: 43862.91329394261 Energy Min: 43862.80092874476
+Final Population Energy: [43862.87079184303, 43863.00643473775, 43862.98074069342, 43862.90376423976, 43862.8252225371, 43862.862259795475, 43862.96474685238, 43862.968458621675, 43862.80092874476, 43862.949591360666]
+Generation List: [14, 15, 16, 19, 34, 20, 39, 33, 31, 17]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/matplotlib/projections/__init__.py", line 58, in get_projection_class
+    return projection_registry.get_projection_class(projection)
+  File "/usr/lib/python3/dist-packages/matplotlib/projections/__init__.py", line 25, in get_projection_class
+    return self._all_projection_types[name]
+KeyError: '3d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "gen_v2.py", line 94, in <module>
+    draw(pop_arrange[pop_energy.index(min(pop_energy))])
+  File "/home2/fsgf66/sphere_project/gen_functions.py", line 182, in draw
+    ax = fig.add_subplot(211, projection='3d')
+  File "/usr/lib/python3/dist-packages/matplotlib/figure.py", line 1396, in add_subplot
+    self._process_projection_requirements(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/matplotlib/figure.py", line 1120, in _process_projection_requirements
+    projection_class = projections.get_projection_class(projection)
+  File "/usr/lib/python3/dist-packages/matplotlib/projections/__init__.py", line 60, in get_projection_class
+    raise ValueError("Unknown projection %r" % projection)
+ValueError: Unknown projection '3d'
+srun: error: cpu4: task 0: Exited with exit code 1
