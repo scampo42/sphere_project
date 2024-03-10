@@ -1,0 +1,375 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(gen_v2_copy.py:1730210): Gdk-CRITICAL **: 21:55:23.086: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Final gamma: 0.04862807314937972 Total loops: 2000 Energy: 43863.30648188908
+Final gamma: 0.04862807314937978 Total loops: 2000 Energy: 43863.121748912796
+Final gamma: 0.04862807314937976 Total loops: 2000 Energy: 43863.61149556249
+Final gamma: 0.048628073149379725 Total loops: 2000 Energy: 43863.350932751426
+Final gamma: 0.04862807314937966 Total loops: 2000 Energy: 43863.3101080284
+Final gamma: 0.04862807314937967 Total loops: 2000 Energy: 43863.6349634684
+Final gamma: 0.04862807314937977 Total loops: 2000 Energy: 43863.13834300424
+Final gamma: 0.048628073149379676 Total loops: 2000 Energy: 43863.79540839281
+Final gamma: 0.04862807314937976 Total loops: 2000 Energy: 43863.11245748994
+Final gamma: 0.048628073149379655 Total loops: 2000 Energy: 43862.99988561274
+Final gamma: 0.04862807314937975 Total loops: 2000 Energy: 43863.201822293544
+Final gamma: 0.04862807314937972 Total loops: 2000 Energy: 43863.24980654051
+Final gamma: 0.04862807314937967 Total loops: 2000 Energy: 43863.32182321109
+Final gamma: 0.04862807314937976 Total loops: 2000 Energy: 43863.355941801885
+Final gamma: 0.04862807314937966 Total loops: 2000 Energy: 43863.2096500425
+Final gamma: 0.04862807314937977 Total loops: 2000 Energy: 43863.18039156002
+Final gamma: 0.04862807314937977 Total loops: 2000 Energy: 43863.36760392667
+Final gamma: 0.048628073149379676 Total loops: 2000 Energy: 43862.96064098325
+Final gamma: 0.04862807314937965 Total loops: 2000 Energy: 43863.189016775075
+Final gamma: 0.04862807314937971 Total loops: 2000 Energy: 43863.2877903409
+Starting Pop Energy [43863.30648188908, 43863.121748912796, 43863.61149556249, 43863.350932751426, 43863.3101080284, 43863.6349634684, 43863.13834300424, 43863.79540839281, 43863.11245748994, 43862.99988561274, 43863.201822293544, 43863.24980654051, 43863.32182321109, 43863.355941801885, 43863.2096500425, 43863.18039156002, 43863.36760392667, 43862.96064098325, 43863.189016775075, 43863.2877903409]
+Generation: 0 Energy Average: 43863.285315629386 Energy Min: 43862.96064098325
+Final gamma: 9.96016198007822e-07 Total loops: 3541 Energy: 43863.32766609294
+Generation: 1 Energy Average: 43863.2619285144 Energy Min: 43862.96064098325
+Final gamma: 9.630629388560178e-07 Total loops: 5793 Energy: 43862.94425280245
+Generation: 2 Energy Average: 43863.2273929811 Energy Min: 43862.94425280245
+Final gamma: 0.047429741748222135 Total loops: 6000 Energy: 43863.04425870579
+Generation: 3 Energy Average: 43863.19903113827 Energy Min: 43862.94425280245
+Final gamma: 9.199952541760093e-07 Total loops: 2993 Energy: 43863.27872903614
+Generation: 4 Energy Average: 43863.194587393744 Energy Min: 43862.94425280245
+Final gamma: 9.327480445413051e-07 Total loops: 3725 Energy: 43863.041534334916
+Generation: 5 Energy Average: 43863.17886702039 Energy Min: 43862.94425280245
+Final gamma: 9.577591782202234e-07 Total loops: 3410 Energy: 43862.99453750304
+Generation: 6 Energy Average: 43863.16104725797 Energy Min: 43862.94425280245
+Distance: 0.8896050634204149
+Mutation Occured
+Energy Post Mutation: 43908.76206725072 n Post Mutation: 306
+Final gamma: 9.286061262276961e-07 Total loops: 3121 Energy: 43863.21634949729
+Generation: 7 Energy Average: 43863.155481428184 Energy Min: 43862.94425280245
+Final gamma: 9.905532569895638e-07 Total loops: 4144 Energy: 43863.214557220315
+Generation: 8 Energy Average: 43863.15011812865 Energy Min: 43862.94425280245
+Final gamma: 0.047429741748222204 Total loops: 6000 Energy: 43863.06005824191
+Generation: 9 Energy Average: 43863.13761563933 Energy Min: 43862.94425280245
+Distance: 1.2861240747220681
+Mutation Occured
+Energy Post Mutation: 43914.56143877496 n Post Mutation: 306
+Final gamma: 9.468884705245508e-07 Total loops: 5696 Energy: 43863.30791657678
+Child Energy Too High
+Generation: 10 Energy Average: 43863.13761563933 Energy Min: 43862.94425280245
+Final gamma: 9.778329383178714e-07 Total loops: 2745 Energy: 43863.125637124955
+Generation: 11 Energy Average: 43863.12857340112 Energy Min: 43862.94425280245
+Final gamma: 0.04742974174822223 Total loops: 6000 Energy: 43863.045223792615
+Generation: 12 Energy Average: 43863.116445073705 Energy Min: 43862.94425280245
+Final gamma: 0.0474297417482222 Total loops: 6000 Energy: 43862.86499904256
+Generation: 13 Energy Average: 43863.095758574025 Energy Min: 43862.86499904256
+Distance: 1.1735678630972428
+Mutation Occured
+Energy Post Mutation: 43949.862503996555 n Post Mutation: 306
+Final gamma: 9.581677800083793e-07 Total loops: 3823 Energy: 43863.098209296506
+Generation: 14 Energy Average: 43863.08817871183 Energy Min: 43862.86499904256
+Distance: 0.7590265561175511
+Mutation Occured
+Energy Post Mutation: 43918.34328044789 n Post Mutation: 306
+Final gamma: 0.04742974174822225 Total loops: 6000 Energy: 43863.179122190835
+Generation: 15 Energy Average: 43863.086317346504 Energy Min: 43862.86499904256
+Distance: 0.4093505233105414
+Mutation Occured
+Energy Post Mutation: 43913.27620357345 n Post Mutation: 306
+Final gamma: 9.34276123386207e-07 Total loops: 5557 Energy: 43863.28403343355
+Child Energy Too High
+Generation: 16 Energy Average: 43863.086317346504 Energy Min: 43862.86499904256
+Final gamma: 9.997553321294212e-07 Total loops: 4452 Energy: 43862.88055885657
+Generation: 17 Energy Average: 43863.06961742831 Energy Min: 43862.86499904256
+Distance: 0.608718787853945
+Mutation Occured
+Energy Post Mutation: 43911.66049650089 n Post Mutation: 306
+Final gamma: 9.713043133714572e-07 Total loops: 3422 Energy: 43863.2264205229
+Child Energy Too High
+Generation: 18 Energy Average: 43863.06961742831 Energy Min: 43862.86499904256
+Final gamma: 9.259330498059368e-07 Total loops: 4529 Energy: 43863.140656303825
+Generation: 19 Energy Average: 43863.066167741374 Energy Min: 43862.86499904256
+Final gamma: 9.672807080899934e-07 Total loops: 5084 Energy: 43862.90159105332
+Generation: 20 Energy Average: 43863.05115617936 Energy Min: 43862.86499904256
+Final gamma: 9.367682101717807e-07 Total loops: 3196 Energy: 43862.917348493545
+Generation: 21 Energy Average: 43863.037572765286 Energy Min: 43862.86499904256
+Final gamma: 9.498849828440629e-07 Total loops: 3568 Energy: 43863.181408241646
+Child Energy Too High
+Generation: 22 Energy Average: 43863.037572765286 Energy Min: 43862.86499904256
+Final gamma: 9.385732451539144e-07 Total loops: 5801 Energy: 43863.22214835195
+Child Energy Too High
+Generation: 23 Energy Average: 43863.037572765286 Energy Min: 43862.86499904256
+Final gamma: 3.613071944879886e-06 Total loops: 6000 Energy: 43863.00310097793
+Generation: 24 Energy Average: 43863.02870823619 Energy Min: 43862.86499904256
+Final gamma: 9.145693948763856e-07 Total loops: 4676 Energy: 43862.88771073925
+Generation: 25 Energy Average: 43863.01413766362 Energy Min: 43862.86499904256
+Distance: 1.216206780769239
+Mutation Occured
+Energy Post Mutation: 43905.31860793175 n Post Mutation: 306
+Final gamma: 9.165750604234756e-07 Total loops: 5068 Energy: 43863.23779374237
+Child Energy Too High
+Generation: 26 Energy Average: 43863.01413766362 Energy Min: 43862.86499904256
+Final gamma: 0.04742974174822218 Total loops: 6000 Energy: 43863.6766909195
+Child Energy Too High
+Generation: 27 Energy Average: 43863.01413766362 Energy Min: 43862.86499904256
+Final gamma: 9.30181328127815e-07 Total loops: 3280 Energy: 43863.36449597355
+Child Energy Too High
+Generation: 28 Energy Average: 43863.01413766362 Energy Min: 43862.86499904256
+Final gamma: 0.04742974174822213 Total loops: 6000 Energy: 43862.86302452046
+Generation: 29 Energy Average: 43863.00025607445 Energy Min: 43862.86302452046
+Final gamma: 9.575711102046008e-07 Total loops: 5443 Energy: 43863.4133382721
+Child Energy Too High
+Generation: 30 Energy Average: 43863.00025607445 Energy Min: 43862.86302452046
+Distance: 1.592351371901327
+Mutation Occured
+Energy Post Mutation: 43905.70517581522 n Post Mutation: 306
+Final gamma: 9.902790598310238e-07 Total loops: 4864 Energy: 43862.77385062261
+Generation: 31 Energy Average: 43862.982031455365 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822214 Total loops: 6000 Energy: 43863.410697714084
+Child Energy Too High
+Generation: 32 Energy Average: 43862.982031455365 Energy Min: 43862.77385062261
+Final gamma: 0.047429741748222135 Total loops: 6000 Energy: 43863.1583792018
+Child Energy Too High
+Generation: 33 Energy Average: 43862.982031455365 Energy Min: 43862.77385062261
+Final gamma: 9.46408519423705e-07 Total loops: 3970 Energy: 43863.28688929122
+Child Energy Too High
+Generation: 34 Energy Average: 43862.982031455365 Energy Min: 43862.77385062261
+Final gamma: 9.199419359367186e-07 Total loops: 4666 Energy: 43863.38233276152
+Child Energy Too High
+Generation: 35 Energy Average: 43862.982031455365 Energy Min: 43862.77385062261
+Final gamma: 0.047429741748222135 Total loops: 6000 Energy: 43863.18964972268
+Child Energy Too High
+Generation: 36 Energy Average: 43862.982031455365 Energy Min: 43862.77385062261
+Final gamma: 9.412722175151118e-07 Total loops: 2900 Energy: 43863.113399412774
+Generation: 37 Energy Average: 43862.98141956975 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822224 Total loops: 6000 Energy: 43863.17276277957
+Child Energy Too High
+Generation: 38 Energy Average: 43862.98141956975 Energy Min: 43862.77385062261
+Final gamma: 9.465395353042419e-07 Total loops: 3610 Energy: 43862.855208968336
+Generation: 39 Energy Average: 43862.96809257253 Energy Min: 43862.77385062261
+Final gamma: 9.277500898777823e-07 Total loops: 2475 Energy: 43863.21013541131
+Child Energy Too High
+Generation: 40 Energy Average: 43862.96809257253 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822216 Total loops: 6000 Energy: 43863.109100049405
+Generation: 41 Energy Average: 43862.967877604366 Energy Min: 43862.77385062261
+Final gamma: 9.209716120077358e-07 Total loops: 3279 Energy: 43863.13538916984
+Child Energy Too High
+Generation: 42 Energy Average: 43862.967877604366 Energy Min: 43862.77385062261
+Final gamma: 9.416086121442293e-07 Total loops: 3493 Energy: 43863.009143222414
+Generation: 43 Energy Average: 43862.96271189098 Energy Min: 43862.77385062261
+Final gamma: 9.401653543565248e-07 Total loops: 5960 Energy: 43863.35975688061
+Child Energy Too High
+Generation: 44 Energy Average: 43862.96271189098 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822216 Total loops: 6000 Energy: 43863.27068379811
+Child Energy Too High
+Generation: 45 Energy Average: 43862.96271189098 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822213 Total loops: 6000 Energy: 43863.12416807894
+Child Energy Too High
+Generation: 46 Energy Average: 43862.96271189098 Energy Min: 43862.77385062261
+Final gamma: 9.276321161433371e-07 Total loops: 4328 Energy: 43862.93211529291
+Generation: 47 Energy Average: 43862.95386265316 Energy Min: 43862.77385062261
+Final gamma: 9.788706772008865e-07 Total loops: 3031 Energy: 43863.24466135559
+Child Energy Too High
+Generation: 48 Energy Average: 43862.95386265316 Energy Min: 43862.77385062261
+Final gamma: 9.428795180229036e-07 Total loops: 4552 Energy: 43863.292552140636
+Child Energy Too High
+Generation: 49 Energy Average: 43862.95386265316 Energy Min: 43862.77385062261
+Final gamma: 9.120629682350933e-07 Total loops: 5724 Energy: 43863.15276019382
+Child Energy Too High
+Generation: 50 Energy Average: 43862.95386265316 Energy Min: 43862.77385062261
+Final gamma: 9.501479953359968e-07 Total loops: 2848 Energy: 43862.99645621856
+Generation: 51 Energy Average: 43862.948774999255 Energy Min: 43862.77385062261
+Distance: 0.8617149392232434
+Mutation Occured
+Energy Post Mutation: 43913.437511192664 n Post Mutation: 306
+Final gamma: 0.047429741748222135 Total loops: 6000 Energy: 43863.0774773255
+Child Energy Too High
+Generation: 52 Energy Average: 43862.948774999255 Energy Min: 43862.77385062261
+Final gamma: 0.047429741748222204 Total loops: 6000 Energy: 43863.18936126273
+Child Energy Too High
+Generation: 53 Energy Average: 43862.948774999255 Energy Min: 43862.77385062261
+Distance: 1.0938958005914619
+Mutation Occured
+Energy Post Mutation: 43925.28799617958 n Post Mutation: 306
+Final gamma: 0.04742974174822216 Total loops: 6000 Energy: 43862.96084350137
+Generation: 54 Energy Average: 43862.94381426223 Energy Min: 43862.77385062261
+Final gamma: 9.298699490018807e-07 Total loops: 5673 Energy: 43863.05199340033
+Child Energy Too High
+Generation: 55 Energy Average: 43862.94381426223 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822211 Total loops: 6000 Energy: 43863.14874254029
+Child Energy Too High
+Generation: 56 Energy Average: 43862.94381426223 Energy Min: 43862.77385062261
+Final gamma: 9.921536998260287e-07 Total loops: 2990 Energy: 43863.23013085013
+Child Energy Too High
+Generation: 57 Energy Average: 43862.94381426223 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822219 Total loops: 6000 Energy: 43863.468571853075
+Child Energy Too High
+Generation: 58 Energy Average: 43862.94381426223 Energy Min: 43862.77385062261
+Final gamma: 9.724697286849122e-07 Total loops: 3348 Energy: 43863.188995631856
+Child Energy Too High
+Generation: 59 Energy Average: 43862.94381426223 Energy Min: 43862.77385062261
+Final gamma: 9.522316853321385e-07 Total loops: 3240 Energy: 43863.03270444178
+Generation: 60 Energy Average: 43862.94318829469 Energy Min: 43862.77385062261
+Final gamma: 9.270544614942608e-07 Total loops: 5948 Energy: 43863.39568363197
+Child Energy Too High
+Generation: 61 Energy Average: 43862.94318829469 Energy Min: 43862.77385062261
+Final gamma: 9.61687438981641e-07 Total loops: 3421 Energy: 43863.08459577959
+Child Energy Too High
+Generation: 62 Energy Average: 43862.94318829469 Energy Min: 43862.77385062261
+Final gamma: 9.153396102834842e-07 Total loops: 4009 Energy: 43863.504413583345
+Child Energy Too High
+Generation: 63 Energy Average: 43862.94318829469 Energy Min: 43862.77385062261
+Final gamma: 9.617648277748793e-07 Total loops: 4734 Energy: 43863.43027007854
+Child Energy Too High
+Generation: 64 Energy Average: 43862.94318829469 Energy Min: 43862.77385062261
+Distance: 0.8637065117638131
+Mutation Occured
+Energy Post Mutation: 43921.909855505946 n Post Mutation: 306
+Final gamma: 9.31361861961021e-07 Total loops: 3026 Energy: 43863.03959026476
+Generation: 65 Energy Average: 43862.94295487264 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822213 Total loops: 6000 Energy: 43863.139166025016
+Child Energy Too High
+Generation: 66 Energy Average: 43862.94295487264 Energy Min: 43862.77385062261
+Distance: 1.5937707720059184
+Mutation Occured
+Energy Post Mutation: 43925.08786587257 n Post Mutation: 306
+Final gamma: 9.277709756719857e-07 Total loops: 5461 Energy: 43863.121355424395
+Child Energy Too High
+Generation: 67 Energy Average: 43862.94295487264 Energy Min: 43862.77385062261
+Final gamma: 9.492934708999667e-07 Total loops: 5188 Energy: 43863.4762332966
+Child Energy Too High
+Generation: 68 Energy Average: 43862.94295487264 Energy Min: 43862.77385062261
+Final gamma: 9.955225510104844e-07 Total loops: 3308 Energy: 43863.339569666045
+Child Energy Too High
+Generation: 69 Energy Average: 43862.94295487264 Energy Min: 43862.77385062261
+Distance: 1.0477868111397863
+Mutation Occured
+Energy Post Mutation: 43903.37284307195 n Post Mutation: 306
+Final gamma: 9.105814701470049e-07 Total loops: 5385 Energy: 43863.35090940643
+Child Energy Too High
+Generation: 70 Energy Average: 43862.94295487264 Energy Min: 43862.77385062261
+Distance: 0.4570095485528704
+Mutation Occured
+Energy Post Mutation: 43906.60869357803 n Post Mutation: 306
+Final gamma: 0.04742974174822213 Total loops: 6000 Energy: 43863.10906522637
+Child Energy Too High
+Generation: 71 Energy Average: 43862.94295487264 Energy Min: 43862.77385062261
+Final gamma: 9.200796443034157e-07 Total loops: 5799 Energy: 43862.93532432985
+Generation: 72 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 9.642076125841394e-07 Total loops: 4226 Energy: 43863.13101672341
+Child Energy Too High
+Generation: 73 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 9.680953149514669e-07 Total loops: 4417 Energy: 43863.50752762498
+Child Energy Too High
+Generation: 74 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 9.418147470525086e-07 Total loops: 4446 Energy: 43863.291246412045
+Child Energy Too High
+Generation: 75 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 9.58024370988492e-07 Total loops: 2690 Energy: 43863.11624298981
+Child Energy Too High
+Generation: 76 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 9.343949420874605e-07 Total loops: 3704 Energy: 43863.07233918545
+Child Energy Too High
+Generation: 77 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 9.612881564914951e-07 Total loops: 4501 Energy: 43863.07496867819
+Child Energy Too High
+Generation: 78 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 9.462775216778211e-07 Total loops: 4330 Energy: 43863.13265756081
+Child Energy Too High
+Generation: 79 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Distance: 1.4972707596631745
+Mutation Occured
+Energy Post Mutation: 43942.35917655741 n Post Mutation: 306
+Final gamma: 9.328126047047013e-07 Total loops: 3545 Energy: 43863.11326687497
+Child Energy Too High
+Generation: 80 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 0.0474297417482222 Total loops: 6000 Energy: 43863.12513536813
+Child Energy Too High
+Generation: 81 Energy Average: 43862.93764437239 Energy Min: 43862.77385062261
+Final gamma: 9.418147470525067e-07 Total loops: 4446 Energy: 43862.94262000398
+Generation: 82 Energy Average: 43862.93279585935 Energy Min: 43862.77385062261
+Distance: 0.7320910155568721
+Mutation Occured
+Energy Post Mutation: 43909.812421449264 n Post Mutation: 306
+Final gamma: 9.57825469529444e-07 Total loops: 3230 Energy: 43863.56535925873
+Child Energy Too High
+Generation: 83 Energy Average: 43862.93279585935 Energy Min: 43862.77385062261
+Final gamma: 0.047429741748222135 Total loops: 6000 Energy: 43863.11830948377
+Child Energy Too High
+Generation: 84 Energy Average: 43862.93279585935 Energy Min: 43862.77385062261
+Final gamma: 9.504217785656171e-07 Total loops: 3621 Energy: 43863.51143949292
+Child Energy Too High
+Generation: 85 Energy Average: 43862.93279585935 Energy Min: 43862.77385062261
+Distance: 0.9327437172605525
+Mutation Occured
+Energy Post Mutation: 43917.32578257696 n Post Mutation: 306
+Final gamma: 9.953959592544174e-07 Total loops: 5161 Energy: 43863.414588819185
+Child Energy Too High
+Generation: 86 Energy Average: 43862.93279585935 Energy Min: 43862.77385062261
+Final gamma: 9.228100768104836e-07 Total loops: 5704 Energy: 43863.40094593503
+Child Energy Too High
+Generation: 87 Energy Average: 43862.93279585935 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822214 Total loops: 6000 Energy: 43862.99992615716
+Generation: 88 Energy Average: 43862.93115694512 Energy Min: 43862.77385062261
+Final gamma: 9.899364201163061e-07 Total loops: 5764 Energy: 43863.22553155352
+Child Energy Too High
+Generation: 89 Energy Average: 43862.93115694512 Energy Min: 43862.77385062261
+Distance: 1.1261682652093876
+Mutation Occured
+Energy Post Mutation: 43908.80213328863 n Post Mutation: 306
+Final gamma: 9.386276432315781e-07 Total loops: 4128 Energy: 43863.048427905116
+Child Energy Too High
+Generation: 90 Energy Average: 43862.93115694512 Energy Min: 43862.77385062261
+Final gamma: 9.472055485252148e-07 Total loops: 3303 Energy: 43863.022089283324
+Child Energy Too High
+Generation: 91 Energy Average: 43862.93115694512 Energy Min: 43862.77385062261
+Final gamma: 9.781934096336788e-07 Total loops: 4831 Energy: 43863.10816013743
+Child Energy Too High
+Generation: 92 Energy Average: 43862.93115694512 Energy Min: 43862.77385062261
+Final gamma: 9.906106677385722e-07 Total loops: 2471 Energy: 43863.00383864371
+Generation: 93 Energy Average: 43862.93089171618 Energy Min: 43862.77385062261
+Final gamma: 9.42814261126241e-07 Total loops: 4732 Energy: 43863.15110532641
+Child Energy Too High
+Generation: 94 Energy Average: 43862.93089171618 Energy Min: 43862.77385062261
+Final gamma: 9.554757363857476e-07 Total loops: 5051 Energy: 43863.298659539
+Child Energy Too High
+Generation: 95 Energy Average: 43862.93089171618 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822209 Total loops: 6000 Energy: 43863.136878857425
+Child Energy Too High
+Generation: 96 Energy Average: 43862.93089171618 Energy Min: 43862.77385062261
+Final gamma: 0.04742974174822213 Total loops: 6000 Energy: 43863.28281106506
+Child Energy Too High
+Generation: 97 Energy Average: 43862.93089171618 Energy Min: 43862.77385062261
+Distance: 0.6477238403324198
+Mutation Occured
+Energy Post Mutation: 43929.64987067332 n Post Mutation: 306
+Final gamma: 0.04742974174822211 Total loops: 6000 Energy: 43863.212357891556
+Child Energy Too High
+Generation: 98 Energy Average: 43862.93089171618 Energy Min: 43862.77385062261
+Distance: 0.9680336576905626
+Mutation Occured
+Energy Post Mutation: 43923.43909941081 n Post Mutation: 306
+Final gamma: 9.441308847021574e-07 Total loops: 2625 Energy: 43863.245553593115
+Child Energy Too High
+Generation: 99 Energy Average: 43862.93089171618 Energy Min: 43862.77385062261
+Final gamma: 9.726935682445788e-07 Total loops: 5794 Energy: 43863.080728825546
+Child Energy Too High
+Generation: 100 Energy Average: 43862.93089171618 Energy Min: 43862.77385062261
+Final Population Energy: [43862.93211529291, 43862.855208968336, 43862.94262000398, 43862.99453750304, 43862.96084350137, 43862.94425280245, 43862.77385062261, 43862.88771073925, 43863.00383864371, 43862.99988561274, 43862.90159105332, 43862.99645621856, 43862.88055885657, 43862.93532432985, 43862.86302452046, 43863.00310097793, 43862.86499904256, 43862.96064098325, 43862.917348493545, 43862.99992615716]
+Generation List: [47, 39, 82, 6, 54, 2, 31, 25, 93, 'p', 20, 51, 17, 72, 29, 24, 13, 'p', 21, 88]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/matplotlib/projections/__init__.py", line 58, in get_projection_class
+    return projection_registry.get_projection_class(projection)
+  File "/usr/lib/python3/dist-packages/matplotlib/projections/__init__.py", line 25, in get_projection_class
+    return self._all_projection_types[name]
+KeyError: '3d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "gen_v2_copy.py", line 94, in <module>
+    draw(pop_arrange[pop_energy.index(min(pop_energy))])
+  File "/home2/fsgf66/sphere_project/gen_functions.py", line 182, in draw
+    ax = fig.add_subplot(211, projection='3d')
+  File "/usr/lib/python3/dist-packages/matplotlib/figure.py", line 1396, in add_subplot
+    self._process_projection_requirements(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/matplotlib/figure.py", line 1120, in _process_projection_requirements
+    projection_class = projections.get_projection_class(projection)
+  File "/usr/lib/python3/dist-packages/matplotlib/projections/__init__.py", line 60, in get_projection_class
+    raise ValueError("Unknown projection %r" % projection)
+ValueError: Unknown projection '3d'
+srun: error: cpu4: task 0: Exited with exit code 1
